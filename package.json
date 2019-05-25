@@ -1,0 +1,19 @@
+{
+  "name": "sampleoauth",
+  "version": "1.0.0",
+  "description": "sample oauth app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen2004er/sampleoauth.git"
+  },
+  "author": "praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen2004er/sampleoauth/issues"
+  },
+  "homepage": "https://github.com/praveen2004er/sampleoauth#readme"
+}
